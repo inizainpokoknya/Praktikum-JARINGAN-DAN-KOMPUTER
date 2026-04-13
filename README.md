@@ -1,1 +1,1 @@
-# Praktikum-Dasar-Kecerdasan-AI
+# Praktikum Jaringan Komputer

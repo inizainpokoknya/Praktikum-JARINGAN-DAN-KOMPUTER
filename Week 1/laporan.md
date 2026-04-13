@@ -2,7 +2,7 @@
 
 ## Tujuan Praktikum
 Praktikum ini bertujuan untuk:
-1. Menginstal dan mengkonfigurasi Python sebagai bahasa pemrograman untuk AI
+1. Menginstal dan mengkonfigurasi Python
 2. Menginstal dan menggunakan Wireshark untuk analisis network traffic
 3. Memahami cara kerja packet capture dan analisis protokol jaringan
 
